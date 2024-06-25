@@ -1,0 +1,33 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    ErrorDocument 404 http://localhost/Perpustakaan/app/staff/home.php?module=pages/views/v_404
+
+    RewriteRule ^uploadsGambar/ - [L]  # Menyertakan pengecualian untuk folder uploadsGambar/
+
+    # Aturan-aturan lain di bawah ini
+    RewriteRule ^dashboard$ home.php [L]
+    RewriteRule ^beranda$ home.php?module=pages/beranda [L]
+    RewriteRule ^siswa$ home.php?module=pages/views/v_anggota [L]
+    RewriteRule ^penerbit$ home.php?module=pages/views/v_penerbit [L]
+    RewriteRule ^data-buku$ home.php?module=pages/views/v_buku [L]
+    RewriteRule ^kategori-buku$ home.php?module=pages/views/v_kategori_buku [L]
+    RewriteRule ^lihat-pesan$ pages/views/v_isi_pesan.php [L]
+    RewriteRule ^profil-saya$ home.php?module=pages/views/v_profile_saya [L]
+    RewriteRule ^petugas$ home.php?module=pages/views/v_petugas [L]
+    RewriteRule ^pesan$ home.php?module=pages/views/v_pesan [L]
+    RewriteRule ^persetujuan-pendaftar$ home.php?module=pages/views/v_pendaftaran [L]
+    RewriteRule ^permintaan$ home.php?module=pages/views/v_permintaan [L]
+    RewriteRule ^permintaan-pengembalian$ home.php?module=pages/views/v_pengembalian [L]
+    RewriteRule ^data-peminjaman$ home.php?module=pages/views/v_peminjaman [L]
+    #RewriteRule ^identitas-app$ home.php?module=pages/views/v_identitas_app [L]
+
+    #Laporan
+    RewriteRule ^laporan-anggota$ home.php?module=pages/views/v_laporan_anggota [L]
+    RewriteRule ^laporan-buku$ home.php?module=pages/views/v_laporan_buku [L]
+    RewriteRule ^laporan-peminjaman$ home.php?module=pages/views/v_laporan_peminjaman [L]
+    RewriteRule ^laporan-pengembalian$ home.php?module=pages/views/v_laporan_pengembalian [L]
+    RewriteRule ^laporan-transaksi$ home.php?module=pages/views/v_laporan_transaksi [L]
+
+    RewriteRule ^keluar$ logout.php [L]
+
+</IfModule>

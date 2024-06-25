@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+
+ErrorDocument 404 http://localhost/Perpustakaan/404
+
+RewriteRule ^beranda$ home.php [L]
+RewriteRule ^peminjaman-buku$ home.php?module=pages/views/v_peminjaman [L]
+RewriteRule ^pengembalian-buku$ home.php?module=pages/views/v_pengembalian [L]
+RewriteRule ^profil-saya$ home.php?module=pages/views/v_profil [L]
+RewriteRule ^pesan$ home.php?module=pages/views/v_pesan [L]
+
+# NewUpdate 23/02/2024
+
+RewriteRule ^detail-buku$ home.php?module=pages/views/v_detail_buku [L]
+RewriteRule ^grup-buku$ home.php?module=pages/views/v_grup_buku [L]
+
+RewriteRule ^form-list$ home.php?module=pages/views/v_list [L]
+RewriteRule ^form-kategori$ home.php?module=pages/views/v_kategori [L]
+RewriteRule ^form-penerbit$ home.php?module=pages/views/v_penerbit [L]
+RewriteRule ^form-pengarang$ home.php?module=pages/views/v_pengarang [L]
+
+RewriteRule ^keluar$ logout.php [L]
+</IfModule>

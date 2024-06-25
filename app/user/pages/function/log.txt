@@ -1,0 +1,1402 @@
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => 
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => 
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Pintu HarmonikaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 26-01-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Sang Pemimpi
+    [judulBuku] => Sang Pemimpi
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Sang PemimpiArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Matematika (VII )
+    [judulBuku] => Matematika (VII )
+    [tanggalPeminjaman] => 26-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Matematika (VII )Array
+(
+    [judulBuku] => Pintu Harmonika
+    [tanggalPengembalian] => 26-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [judulBuku] => Sang Pemimpi
+    [tanggalPengembalian] => 26-01-2024
+    [kondisiBukuSaatDikembalikan] => Rusak
+)
+Array
+(
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPengembalian] => 26-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [judulBuku] => Matematika (VII )
+    [tanggalPengembalian] => 26-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Sang Pemimpi
+    [judulBuku] => Sang Pemimpi
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Sang PemimpiArray
+(
+    [judulBuku] => Sang Pemimpi
+    [tanggalPengembalian] => 27-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [namaAnggota] => Fakhrussyakirin
+    [bukuDipilih] => Interaktif: Informatika SMP/MTs Kelas 7
+    [judulBuku] => Interaktif: Informatika SMP/MTs Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Interaktif: Informatika SMP/MTs Kelas 7Array
+(
+    [namaAnggota] => Fakhrussyakirin
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Fakhrussyakirin
+    [bukuDipilih] => Interaktif: Informatika SMP/MTs Kelas 7
+    [judulBuku] => Interaktif: Informatika SMP/MTs Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+)
+Array
+(
+    [namaAnggota] => Fakhrussyakirin
+    [bukuDipilih] => Interaktif: Informatika SMP/MTs Kelas 7
+    [judulBuku] => Interaktif: Informatika SMP/MTs Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Interaktif: Informatika SMP/MTs Kelas 7Array
+(
+    [namaAnggota] => Fakhrussyakirin
+    [bukuDipilih] => Sang Pemimpi
+    [judulBuku] => Sang Pemimpi
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Sang PemimpiArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Matematika Kelas 7
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Matematika Kelas 7
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Matematika Kelas 7Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pulang 
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Pulang Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Top Rank Buku Pintar IPAArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pulang 
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Pulang Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Aroma Karsa
+    [judulBuku] => Aroma Karsa
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Aroma KarsaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Pintu HarmonikaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 27-01-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Laskar Pelangi
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 27-01-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Negeri 5 Menara
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Negeri 5 MenaraArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Matematika Kelas 7
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Matematika Kelas 7Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Jujutsu Kaisen Vol.01
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 27-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Jujutsu Kaisen Vol.01Array
+(
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPengembalian] => 27-01-2024
+    [kondisiBukuSaatDikembalikan] => Rusak
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Jujutsu Kaisen Vol.01
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 28-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Jujutsu Kaisen Vol.01Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Jujutsu Kaisen 4
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 28-01-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Jujutsu Kaisen 4Array
+(
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPengembalian] => 30-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPengembalian] => 30-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPengembalian] => 30-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPengembalian] => 30-01-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 01-02-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPengembalian] => 03-02-2024
+    [kondisiBukuSaatDikembalikan] => Rusak
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 03-02-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Top Rank Buku Pintar IPAArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Interaktif: Informatika
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPeminjaman] => 03-02-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Interaktif: InformatikaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pulang 
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 03-02-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Pulang Array
+(
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPengembalian] => 03-02-2024
+    [kondisiBukuSaatDikembalikan] => Rusak
+)
+Array
+(
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPengembalian] => 03-02-2024
+    [kondisiBukuSaatDikembalikan] => Hilang
+)
+Array
+(
+    [judulBuku] => Pulang 
+    [tanggalPengembalian] => 03-02-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Thinking, Fast and Slow
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 04-02-2024
+    [kondisiBukuSaatDipinjam] => Baik
+)
+Judul Buku yang Dipilih: Thinking, Fast and SlowArray
+(
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPengembalian] => 04-02-2024
+    [kondisiBukuSaatDikembalikan] => Baik
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 06-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 06-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Si Juki: Cari KerjaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Top Rank Buku Pintar IPAArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Pintu HarmonikaArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Jujutsu Kaisen 4
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Jujutsu Kaisen 4Array
+(
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPengembalian] => 06-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Mimpi Sejuta Dolar
+    [judulBuku] => Mimpi Sejuta Dolar
+    [tanggalPeminjaman] => 06-02-2024
+)
+Judul Buku yang Dipilih: Mimpi Sejuta DolarArray
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [idBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [idBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [judulBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [judulBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [judulBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => 
+    [judulBuku] => 
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Si Juki: Cari Kerja
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Negeri 5 Menara
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Pintu Harmonika
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 07-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Laskar Pelangi
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Top Rank Buku Pintar IPA
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [bukuDipilih] => Interaktif: Informatika
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [bukuIdDipilih] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [bukuIdDipilih] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [bukuIdDipilih] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => irus
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => irus
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => irus
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => irus
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 08-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 11-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif: Informatika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pulang 
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Mimpi Sejuta Dolar
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Aroma Karsa
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Aroma Karsa
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Negeri 5 Menara
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Mimpi Sejuta Dolar
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Laskar Pelangi
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Interaktif (PPKn)
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Thinking, Fast and Slow
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Matematika Kelas 7
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Pintu Harmonika
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen Vol.01
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Jujutsu Kaisen 4
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Si Juki: Cari Kerja
+    [tanggalPeminjaman] => 12-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Mimpi Sejuta Dolar
+    [tanggalPeminjaman] => 13-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 15-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 15-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 15-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => 
+    [tanggalPeminjaman] => 15-02-2024
+)
+Array
+(
+    [namaAnggota] => Muhammad Fajar
+    [judulBuku] => Top Rank Buku Pintar IPA
+    [tanggalPeminjaman] => 15-02-2024
+)

@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+ErrorDocument 404 http://localhost/Perpustakaan/app/admin/home.php?module=pages/views/v_404
+
+RewriteRule ^dashboard$ home.php [L]
+RewriteRule ^beranda$ home.php?module=pages/beranda [L]
+RewriteRule ^administrator$ home.php?module=pages/views/v_administrator [L]
+RewriteRule ^petugas$ home.php?module=pages/views/v_petugas [L]
+RewriteRule ^anggota$ home.php?module=pages/views/v_anggota [L]
+RewriteRule ^lihat-pesan$ pages/views/v_isi_pesan.php [L]
+RewriteRule ^pesan$ home.php?module=pages/views/v_pesan [L]
+
+#
+
+RewriteRule ^data-peminjaman$ home.php?module=pages/views/v_peminjaman [L]
+
+RewriteRule ^keluar$ logout.php [L]
+</IfModule>
